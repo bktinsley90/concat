@@ -8,6 +8,6 @@ function myFavm(){
     let actor = "Played by Danai Gurira";
 
     let msg = favMovie.concat(`${favChara} ${actor}`);
-    alert(msg);
+    console.log(msg);
 
 }
